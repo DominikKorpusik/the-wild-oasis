@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import Tag from "../../ui/Tag";
 import Button from "../../ui/Button";
-import CheckOutButton from "./CheckOutButton";
+import CheckOutButton from "./CheckoutButton";
 
 import { Flag } from "../../ui/Flag";
 import { Link } from "react-router-dom";
